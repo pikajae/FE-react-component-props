@@ -1,0 +1,18 @@
+.coctainer{
+    display: flex;
+    flex-direction: column;
+}
+
+.circle{
+    border-radius: 50%;
+    height:100px;
+    width:100px;
+    margin:24px;
+    
+}
+.circlecontainer{
+    display:flex;
+    flex-direction: row; 
+    justify-content: center;
+    align-items: center;
+}
